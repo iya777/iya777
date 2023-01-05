@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 Mahasiswa Universitas Telkom
-Prodi: S1 Informatika
-Skills: C++, C#, Unity
+\nProdi: S1 Informatika
+\nSkills: C++, C#, Unity
